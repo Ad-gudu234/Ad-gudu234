@@ -103,10 +103,10 @@ A modern, real-time **password strength analyzer** built with HTML, CSS, and Jav
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ad-gudu234&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ad-gudu234&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="165"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad-gudu234&theme=highcontrast&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-gudu234&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-gudu234&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" height="165"/> -->
 
 <br/>
 
